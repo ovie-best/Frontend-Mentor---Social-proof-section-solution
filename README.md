@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution on frontend mentor]( https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-css-grid-vmadmJDxQY)
+- Live Site URL: [Live site on vercel](https://frontend-mentor-social-proof-section-solution-k6a5.vercel.app/)
 
 ## My process
 
@@ -51,6 +51,6 @@ I learnt more about how CSS Grids really works. This project helped me in unders
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Ovie Nathaniel On LinkedIn](https://www.linkedin.com/in/ovie-nathaniel/)
+- Frontend Mentor - [@ovie-best](https://www.frontendmentor.io/profile/ovie-best)
+- Twitter - [@oviebest_2](https://twitter.com/oviebest_2)
